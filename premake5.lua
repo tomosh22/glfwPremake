@@ -116,3 +116,4 @@ project "GLFW"
 		buildoptions "/MT"
 		optimize "on"
         symbols "off"
+		
